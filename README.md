@@ -1,4 +1,9 @@
-## Hi there 👋
+## professional netrunner and full time cat-dad
+
+- I do weird software for myself and other weird people. 
+- Contributor to foundryVTT game systems and doing hobbyist game projects
+- learning fullstack rust cause I'm *hip like that* (～￣▽￣)～
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjo121ben&layout=compact&theme=midnight-purple)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=benjo121ben&show_icons=true&hide=prs&rank_icon=github&custom_title=benji's%20GitHub%20Stats&theme=midnight-purple&include_all_commits=false)
 <!--
