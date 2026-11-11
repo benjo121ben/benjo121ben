@@ -1,7 +1,7 @@
 # Hi I'm Benji
 ## professional netrunner and full time cat-dad
 
-- I do weird software for myself and other weird people.
+- I do nerdy software for myself and other nerdy people.
 - My Blades in the Dark discord bot runs on over 500 servers now
 - Contributor to foundryVTT game systems and doing hobbyist game projects
 - learning fullstack rust cause I'm *hip like that* (～￣▽￣)～
